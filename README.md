@@ -2,6 +2,7 @@
 
 - I´m Wendel Ortiz 
 - 1️7 years, dev
+- My [LinkedIn](https://www.linkedin.com/in/wendel-ortiz-b25119217/) for 💼 
 
 
 <div align="center">
