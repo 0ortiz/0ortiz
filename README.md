@@ -1,14 +1,14 @@
-### A little demonstration about me...
+## *A little demonstration about me...*
 
 ***I´m Wendel Ortiz***
 
--1️7 y, dev
+- *1️7 y, dev*
 
-My [LinkedIn](https://www.linkedin.com/in/wendel-ortiz-b25119217/) for 💼 #opentowork
+- *My [LinkedIn](https://www.linkedin.com/in/wendel-ortiz-b25119217/) for 💼 #opentowork*
 
  ##
 
-- Favourites tools:
+- *Favourites tools:*
 - 🐍 <b>Python</b>  
 - ☕ <b>Java</b>
 
