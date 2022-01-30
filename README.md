@@ -1,8 +1,16 @@
-### About Me...
+### A little demonstration about me...
 
-- I´m Wendel Ortiz 
-- 1️7 years, dev
-- My [LinkedIn](https://www.linkedin.com/in/wendel-ortiz-b25119217/) for 💼 
+***I´m Wendel Ortiz***
+
+-1️7 y, dev
+
+My [LinkedIn](https://www.linkedin.com/in/wendel-ortiz-b25119217/) for 💼 #opentowork
+
+ ##
+
+- Favourites tools:
+- 🐍 <b>Python</b>  
+- ☕ <b>Java</b>
 
 
 <div align="center">
