@@ -8,7 +8,7 @@
 
 - 17y, dev
 
-- *My [LinkedIn](https://www.linkedin.com/in/wendel-ortiz-b25119217/) for 💼 #opentowork*
+- My [LinkedIn](https://www.linkedin.com/in/wendel-ortiz-b25119217/) for 💼 #opentowork
 
  ##
 
