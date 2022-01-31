@@ -1,3 +1,7 @@
+<p> 
+ <img src="https://user-images.githubusercontent.com/98562355/151724615-cb6b7c4e-a2ec-423f-9f56-d93fc7ff6716.jpeg" alt="CL Thumb" border="4" height="500" width="100%">
+</p>
+ 
 ## *A little demonstration about me...*
 
 ***I´m Wendel Ortiz***
