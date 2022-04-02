@@ -13,7 +13,7 @@
 ##
 
 - ***My Certificates🎓***
-- 🎓[**ALURA 'FULL CERTIFICATE'**](https://cursos.alura.com.br/user/0ortiz/fullCertificate/b61843ff0aacf341aafe430f44a4f495)
+- 🎓[**ALURA 'FULL CERTIFICATE'**](https://cursos.alura.com.br/user/0ortiz/fullCertificate/b61843ff0aacf341aafe430f44a4f495) - 2022
 - 🎓[**Information Security with Python**](https://www.dio.me/certificate/BB3F1986/share) - 10h - 2022
 - 🎓[**Website Hacking / Penetration Testing & Bug Bounty Hunting**](https://www.udemy.com/certificate/UC-8c0e2d37-18c1-4e1f-9be9-96f5c769b69d/) - 60h - 2022
 
