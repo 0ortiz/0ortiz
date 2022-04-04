@@ -21,9 +21,25 @@
 
 - ***Favourites tools:***
 - 🐍 <b>Python</b>  
+- <img src="https://i.ibb.co/vVxmyN2/node.png" width="20"/> <b>Node Js</b>  
 
-![0ortiz's GitHub stats](https://github-readme-stats.vercel.app/api?username=0ortiz&show_icons=true&theme=tokyonight)
+##
+
+![0ortiz's GitHub stats](https://github-readme-stats.vercel.app/api?username=0ortiz&show_icons=true&theme=github_dark)
  
+##
+
+- ***Languages and Frameworks used:***
+<div style="display: inline_block"><br>
+  <img align="center" alt="Ortiz-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Ortiz-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="Ortiz-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Ortiz-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="Ortiz-Django" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg"/>
+          
+  
+ ##
+  
   <a href = "mailto:wsortiz28@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=red" target="_blank"></a>
   <a href="https://www.linkedin.com/in/wendel-ortiz-b25119217/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   <a href="mailto:wsortiz@outlook.com"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank"></a>
