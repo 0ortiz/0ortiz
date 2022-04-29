@@ -13,7 +13,7 @@
 
 - ***My Certificates🎓***
 - 🎓[**ALURA 'FULL CERTIFICATE'**](https://cursos.alura.com.br/user/0ortiz/fullCertificate/b61843ff0aacf341aafe430f44a4f495) - 2022
-- 🎓[**Ethical Hacking Fundamentals**](https://www.udemy.com/certificate/UC-424e8658-1920-45d1-9eab-69c7cffeb8b3/)
+- 🎓[**Ethical Hacking Fundamentals**](https://www.udemy.com/certificate/UC-424e8658-1920-45d1-9eab-69c7cffeb8b3/) - 25h - 2022
 - 🎓[**Website Hacking / Penetration Testing & Bug Bounty Hunting**](https://www.udemy.com/certificate/UC-8c0e2d37-18c1-4e1f-9be9-96f5c769b69d/) - 60h - 2022
 
  ##
