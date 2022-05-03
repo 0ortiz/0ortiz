@@ -43,6 +43,5 @@
   <a href="https://www.linkedin.com/in/wendel-ortiz-b25119217/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   <a href="mailto:wsortiz@outlook.com"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank"></a>
   <a href="https://discord.com/channels/@0𝔬𝔯𝔱𝔦𝔷ツ#8665"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a>
-  <a href="https://open.spotify.com/user/31owkeg756vs6mzk5jhpldjmqcyq?si=07c402fd50a1450a"><img src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white" target="_blank"></a>
 ![Snake Animation](https://github.com/0ortiz/0ortiz/blob/output/github-contribution-grid-snake.svg)
  
