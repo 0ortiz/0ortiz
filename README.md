@@ -1,6 +1,5 @@
-<p> 
-  <img src="https://github.com/0ortiz/0ortiz/blob/main/My_Banner%20.png" alt="CL Thumb" border="0" width="100%">
-</p>
+![image](https://user-images.githubusercontent.com/98562355/180050212-445c4d58-bd35-4872-b8e7-4b095fb1630b.png)
+
  
 ## *A little demonstration about me...*
 
